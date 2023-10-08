@@ -1,4 +1,4 @@
 # Practice-git
 This is a practice repository.
 <br>
-Author: Mounika Meka
+Author: Raja Mounika Meka
